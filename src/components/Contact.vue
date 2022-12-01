@@ -52,7 +52,7 @@
           dark
           small
           color="error"
-           href="facebook.com/aletercia"
+           href="https://ar.linkedin.com/in/alejandro-tercia-796631192"
            >
           <v-icon dark>
            fab fa-linkedin

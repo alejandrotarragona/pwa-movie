@@ -17,3 +17,10 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+COMISION DWN3AV 
+PROFESOR GONZALO RUBINO
+ALEJANDRO GABRIEL TARRAGONA
+
+ESTA ES UNA PWA HECHA CON LA API MOVIEDB 
+
